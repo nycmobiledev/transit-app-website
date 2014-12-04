@@ -33,15 +33,15 @@ Only aggregated, anonymized data is periodically transmitted to external service
  
 ## What are my opt-out rights?
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at vbortone@gmail.com.
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at apps@nycmobiledev.net.
  
 ## Data Retention Policy, Managing Your Information
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at vbortone@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at apps@nycmobiledev.net and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
  
 ## Children
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at vbortone@gmail.com. We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at apps@nycmobiledev.net. We will delete such information from our files within a reasonable time.
  
 ## Security
 
@@ -57,4 +57,4 @@ By using the Application, you are consenting to our processing of your informati
  
 ## Contact us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at vbortone@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at apps@nycmobiledev.net.
